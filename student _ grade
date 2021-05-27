@@ -1,3 +1,8 @@
 read item1, item2, item3, item4
 total-item1+item2+item3+item4
 print total
+if total>=2000 then
+print discount 30%
+else
+no discount
+end if
